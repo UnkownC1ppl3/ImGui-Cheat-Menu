@@ -4,6 +4,10 @@
 A simple cheat menu made pretty quickly. Nothing really cool added to it aside from
 the little tool tip & toggle button. Should compile straight with no errors. If you have errors make sure you have everything in the steps provided below.
 
+## Discord
+Possible#4113
+https://discord.gg/fp8pXaUgSn
+
 ## Installation
 
 - Ensure DirectX SDK is installed 
